@@ -20,7 +20,6 @@ export default function Home() {
         <About />
         <Services />
         <Pricing />
-        <Testimonials />
         <Contact onOpenBookingModal={() => setIsBookingModalOpen(true)} />
       </main>
       <Footer />

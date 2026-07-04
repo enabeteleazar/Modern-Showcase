@@ -15,7 +15,7 @@ export function Navbar({ onOpenBookingModal }: NavbarProps) {
     { label: "À propos", id: "about" },
     { label: "Prestations", id: "services" },
     { label: "Tarifs", id: "pricing" },
-    { label: "Témoignages", id: "testimonials" },
+/*    { label: "Témoignages", id: "testimonials" }, */
   ];
 
   useEffect(() => {
